@@ -17,3 +17,6 @@
 
 - Flickering squares show when solving
 - Crashes when no START and END blocks present
+
+**Version 0.2**
+- Minor fixes
