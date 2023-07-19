@@ -7,7 +7,7 @@ import mazeutils as mm
 
 pygame.init()
 
-pygame.display.set_caption("Durian's Quest to Find His BHM")
+pygame.display.set_caption("Pathfinder")
 pygame.display.set_icon(pygame.image.load("pathfinder-icon.png"))
 
 size = width, height = 900, 600
