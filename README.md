@@ -8,6 +8,10 @@
 - Save maze function
 - Import maze function
 - Swap between algorithms without redrawing
+- Legend of controls
+- Improved graphical design
+- More algorithms
+- 50 x 50 maze
 
 # Versions
 
