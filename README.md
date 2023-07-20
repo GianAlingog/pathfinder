@@ -1,6 +1,6 @@
 # Welcome to Pathfinder
 
-**Pathfinder** is a simple interface for simulating search algorithms such as DFS and BFS with your own mazes.
+**Pathfinder** is a simple interface for simulating graph traversal algorithms such as DFS and BFS with your own mazes.
 
 # Announcements
 
